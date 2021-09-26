@@ -1,6 +1,6 @@
 ## SALVE! Eu sou o Anderson Cardoso. ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
 
- <div>
+ <div style="display: flex">
   <a href="https://github.com/AndeCardoso">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AndeCardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndeCardoso&layout=compact&langs_count=7&theme=dark"/>
