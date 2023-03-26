@@ -1,10 +1,10 @@
 ## Hey there! I'm Anderson Cardoso. ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
  <ul>
   <li>
-   Front-End Web Developer
+   Front-End Web and Mob Developer
   </li>
  <li>
-   Some times, Fullstack too...
+   Some times, backend too...
   </li>
  </ul>
 
